@@ -4,9 +4,9 @@
 # HoloToolsDev Labs 🎀
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/792028cb-ea9b-46b3-a8ec-095461632094">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3204fdee-3842-4e2a-ae00-9543dfdd8849">
-  <img alt="Description of the image" src="https://github.com/user-attachments/assets/3204fdee-3842-4e2a-ae00-9543dfdd8849">
+  <source media="(prefers-color-scheme: dark)" srcset="../public/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../public/banner-light.png">
+  <img alt="HoloToolsDev Labs Banner" src="../public/banner-dark.png">
 </picture>
 
 **Focusing on building practical tools for Hololive Fans (Holomen-oriented)**
