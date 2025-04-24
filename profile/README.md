@@ -28,6 +28,6 @@ Welcome Hololive female talent fans/developers to join:
 2. Can apply to become dedicated tool maintainers
 
 ## 📜 License
-MIT License - Please comply with [Hololive Derivative Works Guidelines](https://hololivepro.com/terms/)
+MIT License - Please comply with [Hololive Derivative Works Guidelines](https://hololivepro.com/en/terms/)
 
 > 📢 Disclaimer: This is an unofficial fan project, not officially affiliated with COVER Corp.
