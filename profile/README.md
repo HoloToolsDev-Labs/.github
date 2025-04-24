@@ -3,7 +3,11 @@
 [![CN](https://img.shields.io/badge/Lang-中文-blue)](README_CN.md)
 # HoloToolsDev Labs 🎀
 
-![holotoolsdev_labs](https://github.com/user-attachments/assets/3204fdee-3842-4e2a-ae00-9543dfdd8849)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/792028cb-ea9b-46b3-a8ec-095461632094">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3204fdee-3842-4e2a-ae00-9543dfdd8849">
+  <img alt="Description of the image" src="https://github.com/user-attachments/assets/3204fdee-3842-4e2a-ae00-9543dfdd8849">
+</picture>
 
 **Focusing on building practical tools for Hololive Fans (Holomen-oriented)**
 
