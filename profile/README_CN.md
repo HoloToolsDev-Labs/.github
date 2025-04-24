@@ -3,6 +3,8 @@
 [![CN](https://img.shields.io/badge/Lang-中文-brightgreen)](README_CN.md)
 # HoloToolsDev Labs 🎀
 
+![holotoolsdev_labs](https://github.com/user-attachments/assets/3204fdee-3842-4e2a-ae00-9543dfdd8849)
+
 **专注于为Hololive Fans打造实用工具(Holomen方向)**
 
 ## 🌸 当前项目
