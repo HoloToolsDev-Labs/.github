@@ -13,7 +13,7 @@
 
 ## 🌸 Current Projects
 
-### [HoloCalendar](https://hksts.eu.org) 📅
+### [HoloCalendar](https://calendar.holotools.dev/) 📅
 - Consolidates important dates for all HoloMen: debut anniversaries, birthdays, etc.
 - Multilingual support: Japanese/English/Chinese interface switching
 - Community collaboration: Fan-contributed date maintenance system

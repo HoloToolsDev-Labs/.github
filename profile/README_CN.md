@@ -13,7 +13,7 @@
 
 ## 🌸 当前项目
 
-### [HoloCalendar](https://hksts.eu.org) 📅
+### [HoloCalendar](https://calendar.holotools.dev/) 📅
 - 整合所有HoloMen的出道纪念日、生日等重要日期
 - 多语言支持: 日语/英语/中文界面切换
 - 粉丝贡献机制: 社区协同维护日期数据

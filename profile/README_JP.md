@@ -13,7 +13,7 @@
 
 ## 🌸 現在のプロジェクト
 
-### [HoloCalendar](https://hksts.eu.org) 📅
+### [HoloCalendar](https://calendar.holotools.dev/) 📅
 - ホロメン全員のデビュー記念日・誕生日等重要日を統合
 - 多言語対応: 日本語/英語/中国語インターフェース切替
 - ファン協力体制: コミュニティ共同での日付データ管理
